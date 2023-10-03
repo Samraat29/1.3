@@ -17,19 +17,19 @@ export default {
     return {
       projects: [
         {
-          title: 'Project 1',
-          description: 'Description of project 1.',
-          link: 'https://example.com/project1'
+          title: 'Project 1.1',
+          description: 'Pass rask 1.1.',
+          link: 'https://github.com/Samraat29/DBS-CHARACTERS'
         },
         {
-          title: 'Project 2',
-          description: 'Description of project 2.',
-          link: 'https://example.com/project2'
+          title: 'Project 1.2',
+          description: 'Pass task 1.2.',
+          link: 'https://github.com/Samraat29/TASK1.2P'
         },
         {
-          title: 'Project 3',
-          description: 'Description of project 3.',
-          link: 'https://example.com/project3'
+          title: 'Project 1.3',
+          description: 'Pass task 1.3',
+          link: 'https://github.com/Samraat29/sit120-1.3p-'
         }
         // Add more project objects as needed
       ]
